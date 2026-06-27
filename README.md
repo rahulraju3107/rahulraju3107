@@ -1,4 +1,4 @@
-## Hi, I'm Rahul Raju
+## Rahul Raju
 
 Final-year Bachelor of Computer Science (Software Development) student at Swinburne University of Technology.
 
